@@ -1,0 +1,16 @@
+{
+    "name": "tyurderi/date-finder",
+    "description": "A class with the target to find all dates in a file.",
+    "authors": [
+        {
+            "name": "tyurderi",
+            "email": "tyurderi@yahoo.de"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WCKZ\\DateUtil\\": "src/"
+        }
+    }
+}
